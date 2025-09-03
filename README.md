@@ -1,2 +1,2 @@
 # Java-Programs
-Java Programs and DSA 
+Basic Java Programs and Pattern Programs
